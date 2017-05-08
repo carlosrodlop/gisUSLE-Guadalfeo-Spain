@@ -1,4 +1,4 @@
-# my-bsc-es-dissertation
+# GIS USLE Guadalfeo, Spain
 
 It contains my BSc dissertation about using GIS for Erosion Risk Assessment. 
 The studied site is the Guadalfeo Basin, Granada, Spain.
